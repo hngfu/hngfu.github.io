@@ -378,9 +378,9 @@ han: false
 #duoshuo_shortname:
 
 # Disqus
-disqus: hngfu
+disqus:
   enable: false
-  shortname: hngfu
+  shortname:
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
