@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 진심 어린 개발자 흥푸
-subtitle: 서브 타이틀
-description: 주석 부분
+title: hngfu
+subtitle: 진심 어린 개발자
+description: 안녕하세요!!
 author: hngfu
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -379,7 +379,7 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
+  enable: true
   shortname: hngfu
   count: true
   # hide comments (visitors need to click to load the comments)
