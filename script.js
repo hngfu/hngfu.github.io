@@ -32,7 +32,7 @@ AI가 발전하는 시대일수록 더욱 중요해지는 CS(컴퓨터 구조, �
 <img src="https://user-images.githubusercontent.com/38850628/61694529-9c306000-ad6c-11e9-80f3-210eee6377e0.jpg" width="400" style="max-width:100%;" alt="크롬 익스텐션 스토어 이미지">
 또한, 동료와 함께 성장하는 가치를 중요하게 생각하며 자신의 지식을 적극적으로 공유합니다.
 - 코드스쿼드 온라인 컨퍼런스에서 수백 명의 청중 앞에서 발표를 진행했습니다. [@발표 영상 보기](https://youtu.be/Ghbcw9KKvKw)
-<img src="images/추일함타.gif" width="600" style="max-width:100%;" alt="컨퍼런스 발표 이미지"/>
+<img src="images/AGFT.gif" width="600" style="max-width:100%;" alt="컨퍼런스 발표 이미지"/>
 - 그 외에도 오토 레이아웃 활용법, 추상화, 단위 테스트, 코드 개선 등 다양한 주제로 발표를 진행했습니다.
   - 오토 레이아웃 활용법 [@Code 보기](https://github.com/hngfu/presentation/tree/master/asset/FirstLayout)
   - 추상화, 일반화, 함수, 타입 [@추일함타.pdf 보기](https://github.com/hngfu/presentation/blob/master/asset/%ED%9D%A5%ED%91%B8%EC%9D%98%20%EC%B6%94%EC%9D%BC%ED%95%A8%ED%83%80%20ver.2.pdf)
